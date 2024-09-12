@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react'
 import { Dialog } from './assets/components/ui/dialog'
 import { CreateGoal } from './assets/components/create-goal'
 
